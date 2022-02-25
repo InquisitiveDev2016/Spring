@@ -1,0 +1,21 @@
+Name: Ali
+id: 5
+date of birth: 1997/01/30
+job: Worker
+address: 25 King St W,Toronto,ON
+promo message: $1000 cash sign up bonus
+
+Name: Coby
+id: 28
+date of birth: 2000/05/30
+job: Cleaner
+address: 15 Queen St E,Brampton,ON
+promo message: 15% lower transaction fees for stocks
+
+Name: Bob
+id: 55
+date of birth: 2017/01/30
+job: Sweeper
+address: 96 Oakley Dr,Toronto,ON
+promo message: none
+
